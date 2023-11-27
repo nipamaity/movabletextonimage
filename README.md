@@ -15,6 +15,8 @@ First add to app gradle file to user library:
  implementation project(':movabletextonimage')
 
 xml Page write below code:
+
+
     <com.nipa.movabletextonimage.MovableTextOnImage
         android:id="@+id/movableImage"
         android:layout_width="wrap_content"
